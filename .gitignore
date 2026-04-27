@@ -1,0 +1,8 @@
+# Ignora a pasta de dependências em qualquer subdiretório
+**/node_modules/
+
+# Ignora arquivos de configuração sensíveis em qualquer subdiretório
+**/.env
+
+# Ignora arquivos de cache do Python (útil para o seu backend)
+**/__pycache__/
